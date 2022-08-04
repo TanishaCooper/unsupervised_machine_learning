@@ -8,10 +8,8 @@ You are on the data science team of a medical research company that’s interest
 
 You have been provided with raw data, so you’ll first need to process it to fit the machine learning models. You will use several clustering algorithms to explore whether the patients can be placed into distinct groups. Then, you’ll create a visualization to share your findings with your team and other key stakeholders.
 
-# Contributor
-    - Tanisha Cooper
-# Data Source
-    [Myopia](./Resources/myopia.csv)
+## Contributor: <strong>Tanisha Cooper<strong>
+## Data Source: [Myopia](./Resources/myopia.csv)
 ## Process
 
 ### Part 1: Process the Data
