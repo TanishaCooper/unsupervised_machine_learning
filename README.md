@@ -38,7 +38,13 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 * If possible, determine where the elbow of the plot is, and at which value of `k` it appears.
 
 ### <strong>Part 4: Make a Recommendation</strong>
+
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. 
 
-* Can the patients be clustered? 
-* If so, into how many clusters?
+**Can the patients be clustered?**
+
+   - The data (sample) is inconclusive to determine if the patients can be clustered into whether the kids have or does not have myopic. There was 618 samples with 14 variables. After scaling the data and reducing the dimensions, the principle component was reduced to 618 sample with 2 components. If additional dimensions were added, the data would likely allow us to show definitive clusters to help determine whether our patients are myopic or not.
+   
+**If so, into how many clusters?** 
+
+   - Inconclusive
