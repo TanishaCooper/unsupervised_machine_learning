@@ -25,6 +25,13 @@ You have been provided with raw data, so you’ll first need to process it to fi
 
 ### <strong>Part 2: Apply Dimensionality Reduction</strong>
 1. Perform dimensionality reduction with PCA. How did the number of the features change?
+<ul style="color:white">
+<li><em>The change in features were reduced from 14 to 10 with 618 samples.</em></li>
+<li><em>The outputs of the PCA can be used as input to train a model.</em></li>
+<li><em>PCA is a method used to reduce number of variables in your data by extracting important ones from a large pool.</em></li> 
+<li><em>It reduces the dimension of the data with the aim of retaining as much information as possible (~90% for our data below).</em></li> 
+<li><em>In other words, this method combines highly correlated variables together to form a smaller number of an artificial set of variables which is called “principal components” that account for most variance in the data.</em></li>
+    </ul>
 
 2. Further reduce the dataset dimensions with t-SNE and visually inspect the results. To do this, run t-SNE on the principal components, which is the output of the PCA transformation. 
 
