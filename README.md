@@ -50,7 +50,7 @@ Based on your findings, write up a brief (one or two sentences) recommendation f
 
 **Can the patients be clustered?**
 
-   - The data (sample) is inconclusive to determine if the patients can be clustered into whether the kids have or does not have myopic. There was 618 samples with 14 variables. After scaling the data and reducing the dimensions, the principle component was reduced to 618 sample with 2 components. If additional dimensions were added, the data would likely allow us to show definitive clusters to help determine whether our patients are myopic or not.
+   - The data (sample) is inconclusive to determine if the patients can be clustered into whether the kids have or does not have myopic. There was 618 samples with 14 variables. After scaling the data and reducing the dimensions, the principle component was reduced to 618 sample with 2 components. In the sample, there was 537 that fell in the 0 category and 81 fell into 1 category. If additional dimensions and/or samples were added, the data would likely allow us to show definitive clusters to help determine whether our patients are myopic or not.
    
 **If so, into how many clusters?** 
 
